@@ -1,0 +1,14 @@
+.welcome-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2rem;
+}
+
+.welcome-text {
+  max-width: 50%;
+}
+
+.image-card {
+  max-width: 400px;
+}
